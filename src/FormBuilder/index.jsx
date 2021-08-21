@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-function FormBuilder(): React.ReactElement {
+function FormBuilder() {
   return <div>Hello World!</div>;
 }
 
